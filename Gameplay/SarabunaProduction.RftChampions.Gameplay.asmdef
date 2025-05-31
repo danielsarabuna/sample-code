@@ -1,0 +1,29 @@
+{
+    "name": "SarabunaProduction.RftChampions.Gameplay",
+    "rootNamespace": "Gameplay",
+    "references": [
+        "GUID:0007c9da57dd940acadfb6bdec1ebca7",
+        "GUID:83c9e08ab36b54e22b24bc358459328b",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:2be65bc36e08e4a279e26f818ee8dbf8",
+        "GUID:25bb0a9276e7430ebb1204d0951aa702",
+        "GUID:7ab5f2f4446d485f8900fc232abe4c55",
+        "GUID:58bed0e7c5306824586d7eda03609289",
+        "GUID:d8f50898849f413ca71ddb9b2cae0928",
+        "GUID:77221876cc6b8244180b96e320b1bcd4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

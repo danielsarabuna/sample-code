@@ -1,0 +1,17 @@
+{
+    "name": "SarabunaProduction.RftChampions.Proxy",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d8f50898849f413ca71ddb9b2cae0928",
+        "GUID:7ab5f2f4446d485f8900fc232abe4c55"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

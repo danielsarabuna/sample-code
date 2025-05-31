@@ -1,0 +1,19 @@
+{
+    "name": "SarabunaProduction.RftChampions.Model",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:6ecc0ddfa3c4848ae99a0e2c1993e6a4",
+        "GUID:480b0ac6ff7b4013906f6b09288a9922"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
